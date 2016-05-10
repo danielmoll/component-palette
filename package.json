@@ -104,7 +104,7 @@
   },
   "dependencies": {
     "parallelshell": "^2.0.0",
-    "react": "^0.14.7"
+    "react": "^15.0.2"
   },
   "devDependencies": {
     "@economist/doc-pack": "^1.0.6",
